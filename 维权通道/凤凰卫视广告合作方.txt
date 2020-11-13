@@ -1,0 +1,14 @@
+凤凰传媒广告p客户
+序号	客户名称	电话	邮箱
+1	以岭药业	0311-85901611	002603@yiling.cn
+2	国窖	4008881573	sixt@lzlj.com
+3	阳光保险	010-58289999	hh_yang0319@163.com
+4	山东临工	0539-8785578	office@sdlg.com.cn
+5	忠旺	0419-3688888	1192427940@qq.com
+6	茅台酒	0851-22386034	webmaster@moutaichina.com
+7	中国太平	085225446100	huangyj@etaiping.com
+8	华润	0755-82668888	qunzhongcrc@126.com
+9	潍柴动力	0636-2102388	recollectnew@163.com
+10	毛铺苦荞洒	0714-8761818	zscq@jingpai.com
+11	五粮液	0831-3353988	nifo@wuliangye.com.cn
+12	雅居乐	020-88839888/88839935	ir@agile.com.cn
